@@ -1,0 +1,21 @@
+Test Cases for PA1
+
+1. Description: Room that measures 13 x 18 and carpet costs $2.75
+Input: W: 13 L: 18 Price: 2.75
+Output: 234; 643.5
+
+2. Description: Room that measures 15 x 26 and carpet costs $3.75
+Input: W: 15 L: 26 Price: 3.75
+Output: 390; 1462.5
+
+3. Description: To have a large total price
+Input: W: 34 L: 52 Price: 4.86
+Output: 1768; 8592.48
+
+4. Description: Output of 100 sq. feet and $380 for total price
+Input: W: 10 L: 10 Price: 3.80
+Output: 100; 380
+
+5. Description: Output of 238 sq. feet and $595 for total price
+Input: W: 14 L: 17 Price: 2.50
+Output: 238; 595

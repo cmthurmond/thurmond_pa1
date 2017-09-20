@@ -1,0 +1,22 @@
+PA1 Algorithm:
+
+
+1. Output to the user a brief description of what the program does: "This program will calculate the square footage of a room and use that calculation to compute the price it would cost to purchase the necessary amount of carpet needed."
+
+2. Input the length of the room "What is the length of the room?"
+
+3. User will input number.
+
+4. Input the width of the room "What is the width of the room?"
+
+5. User will input number.
+
+6. Multiply the length of the room by the width of the room to calculate the area.
+
+7. Input the price of the carpet "How much does the carpet cost per square foot?"
+
+8. User will input number.
+
+9. Multiply that price by the area of the room.
+
+6. Output will be the area of the room (in square feet) and the total price to purchase the carpet.
